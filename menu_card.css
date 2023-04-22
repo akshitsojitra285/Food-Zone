@@ -4,6 +4,7 @@
     text-transform: uppercase;
     /* font-family: Arial, Helvetica, sans-serif; */
     font-size: x-large;
+    color: black;
     font-weight: bolder;
 }
 #menu-card{
@@ -32,6 +33,9 @@
 .food-title{
     font-size: x-large;
     font-weight: bolder;
+    height: 3pc;
+    background-color: lightcoral;
+    box-shadow: 0px 0px 10px black;
 }
 .item img{
     border-radius: 5px;
