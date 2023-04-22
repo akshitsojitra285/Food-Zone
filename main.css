@@ -26,6 +26,7 @@ body{
 }
 #circle{
     border-radius: 50%;
+    box-shadow: 0px 0px 10px rgb(44, 40, 40);
 }
 #links{
     background-color: black;
@@ -49,8 +50,7 @@ body{
     color: darkorange;
 }
 #about-fz{
-    /* width: 90%; */
-    height: 70pc;
+    height: 50pc;
     border: 0px solid black;
     padding: 100px;
     background-color: darkgray;
