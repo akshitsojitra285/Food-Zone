@@ -74,3 +74,30 @@ button{
 button:hover{
     background-color: darkorange;
 }
+#bill{
+    margin-top: 5pc;
+}
+#tab-bill tr:nth-child(even){
+    background-color: lightblue;
+}
+#tab-bill tr:nth-child(odd){
+    background-color: lightcyan;
+}
+#total-bill{
+    font-size: large;
+    margin: 3pc;
+    float: right;
+}
+#total{
+    font-weight: bolder;
+    font-size: larger;
+}
+#print{
+    background-color: darkcyan;
+    padding: 10px 2pc;
+    float: right;
+    margin: 3pc;
+}
+#print:hover{
+    background-color: lightcyans;
+}
