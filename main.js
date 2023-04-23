@@ -30,6 +30,8 @@ function add(name,quantity,price) {
     // alert(fprice)
 }
 function place() {
+    let a = prompt("Enter your table no. :-")
+    document.getElementById("table").innerHTML=a;
     document.getElementById("bill").style.display="block";
     document.getElementById("item-page").style.display="none";
     document.getElementById("links").style.display="none";

@@ -83,12 +83,12 @@ button:hover{
 #tab-bill tr:nth-child(odd){
     background-color: lightcyan;
 }
-#total-bill{
+#total-bill,#table-no{
     font-size: large;
     margin: 3pc;
     float: right;
 }
-#total{
+#total,#table{
     font-weight: bolder;
     font-size: larger;
 }
