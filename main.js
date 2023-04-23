@@ -25,7 +25,7 @@ function add(name,quantity,price) {
             fprice.push(price);
         }
     }
-    alert(fname)
+    // alert(fname)
     alert(fquantity)
-    alert(fprice)
+    // alert(fprice)
 }
