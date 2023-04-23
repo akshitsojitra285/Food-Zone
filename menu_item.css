@@ -67,8 +67,9 @@ tr:nth-child(even){
 }
 button{
     padding: 10px;
+    width: 6pc;
     border-radius: 5px;
-    background-color: lightsalmon;
+    background-color: darksalmon;
     box-shadow: -2px -2px 5px black;
 }
 button:hover{
@@ -99,5 +100,5 @@ button:hover{
     margin: 3pc;
 }
 #print:hover{
-    background-color: lightcyans;
+    background-color: lightcyan;
 }

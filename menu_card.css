@@ -21,7 +21,7 @@
     justify-content: center;
     /* border: 2px solid black; */
     padding: 2pc;
-    margin: 4pc 10pc;
+    margin: 5pc 10pc;
     border-radius: 20px;
     box-shadow: 3px 3px 10px black;
     background-color: lightgrey;
@@ -36,6 +36,9 @@
     height: 3pc;
     background-color: lightcoral;
     box-shadow: 0px 0px 10px black;
+}
+.food-title:hover{
+    background-color: lightsalmon;
 }
 .item img{
     border-radius: 5px;
