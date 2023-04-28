@@ -102,3 +102,15 @@ button:hover{
 #print:hover{
     background-color: lightcyan;
 }
+@media screen and (max-width:480px) {
+    .link{
+        margin: 0px 10px;
+        padding: 20px;
+    }
+    #print{
+        background-color: darkcyan;
+        padding: 10px 2pc;
+        float: inline-start;
+        margin: 2pc;
+    }
+}

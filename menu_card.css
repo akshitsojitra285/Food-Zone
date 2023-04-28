@@ -50,3 +50,28 @@
     font-weight: 500;
     margin-top: 10px;
 }
+@media screen and (max-width:480px) {
+    #menu-heading{
+        padding-top: 2pc;
+        margin-bottom: 2pc;
+    }
+    #menu-card{
+        padding: 0pc;
+        width: 100%;
+    }
+    .item{
+        width: 100px;
+        height: 100px;
+        padding: 1pc;
+        margin: 3pc 1pc;
+    }
+    .food-title{
+        height: 2pc;
+    }
+    .item img{
+        width: 50px;
+    }
+    .item div{
+        margin-top: 0px;
+    }
+}
